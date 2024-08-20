@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "C:/Users/QUI/Downloads/Inventory-Management-Admin-Dashboard-main"
+	},
+	{
+		"path": "../../test1"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Inventory-Management-Admin-Dashboard-main"
+  }
+}
